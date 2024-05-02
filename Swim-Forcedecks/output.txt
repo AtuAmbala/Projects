@@ -1,0 +1,1492 @@
+Cluster 0:
+Athletes
+7
+10
+14
+31
+45
+
+Mean:
+Name                                       21.400
+BW [KG]                                    44.964
+Jump Height (Imp-Mom) in Inches [in]       11.020
+RSI-modified (Imp-Mom) [m/s]                0.424
+Eccentric Peak Force [N]                 1140.600
+Eccentric Peak Power / BM [W/kg]           16.620
+Eccentric Duration [ms]                   406.400
+Concentric Peak Force [N]                1208.800
+Concentric Peak Force / BM [N/kg]          21.460
+Concentric Duration [ms]                  285.600
+Fly                                         0.800
+Back                                        0.000
+Breast                                      0.000
+Free                                        0.800
+Group                                       2.200
+IM                                          0.400
+Male                                        0.200
+dtype: float64
+Median:
+Name                                       14.00
+BW [KG]                                    58.16
+Jump Height (Imp-Mom) in Inches [in]       11.40
+RSI-modified (Imp-Mom) [m/s]                0.43
+Eccentric Peak Force [N]                 1199.00
+Eccentric Peak Power / BM [W/kg]           18.30
+Eccentric Duration [ms]                   398.00
+Concentric Peak Force [N]                1210.00
+Concentric Peak Force / BM [N/kg]          21.30
+Concentric Duration [ms]                  286.00
+Fly                                         1.00
+Back                                        0.00
+Breast                                      0.00
+Free                                        1.00
+Group                                       2.00
+IM                                          0.00
+Male                                        0.00
+dtype: float64
+Male count: 1
+Female count: 4
+
+Cluster 1:
+Athletes
+12
+18
+22
+23
+32
+33
+37
+38
+42
+
+Mean:
+Name                                       28.555556
+BW [KG]                                    74.648889
+Jump Height (Imp-Mom) in Inches [in]       16.477778
+RSI-modified (Imp-Mom) [m/s]                0.581111
+Eccentric Peak Force [N]                 2172.333333
+Eccentric Peak Power / BM [W/kg]           23.755556
+Eccentric Duration [ms]                   466.777778
+Concentric Peak Force [N]                2176.777778
+Concentric Peak Force / BM [N/kg]          25.944444
+Concentric Duration [ms]                  257.222222
+Fly                                         0.666667
+Back                                        0.333333
+Breast                                      0.111111
+Free                                        0.888889
+Group                                       2.333333
+IM                                          0.444444
+Male                                        1.000000
+dtype: float64
+Median:
+Name                                       32.00
+BW [KG]                                    84.59
+Jump Height (Imp-Mom) in Inches [in]       16.90
+RSI-modified (Imp-Mom) [m/s]                0.58
+Eccentric Peak Force [N]                 2153.00
+Eccentric Peak Power / BM [W/kg]           22.50
+Eccentric Duration [ms]                   460.00
+Concentric Peak Force [N]                2168.00
+Concentric Peak Force / BM [N/kg]          26.10
+Concentric Duration [ms]                  257.00
+Fly                                         1.00
+Back                                        0.00
+Breast                                      0.00
+Free                                        1.00
+Group                                       3.00
+IM                                          0.00
+Male                                        1.00
+dtype: float64
+Male count: 9
+Female count: 0
+
+Cluster 2:
+Athletes
+15
+25
+26
+27
+35
+40
+41
+46
+
+Mean:
+Name                                       31.8750
+BW [KG]                                    69.8525
+Jump Height (Imp-Mom) in Inches [in]       13.4250
+RSI-modified (Imp-Mom) [m/s]                0.4775
+Eccentric Peak Force [N]                 1747.8750
+Eccentric Peak Power / BM [W/kg]           22.8875
+Eccentric Duration [ms]                   466.3750
+Concentric Peak Force [N]                1733.7500
+Concentric Peak Force / BM [N/kg]          25.0875
+Concentric Duration [ms]                  267.3750
+Fly                                         0.2500
+Back                                        0.2500
+Breast                                      0.3750
+Free                                        0.8750
+Group                                       2.8750
+IM                                          0.3750
+Male                                        0.2500
+dtype: float64
+Median:
+Name                                       31.000
+BW [KG]                                    69.380
+Jump Height (Imp-Mom) in Inches [in]       14.200
+RSI-modified (Imp-Mom) [m/s]                0.465
+Eccentric Peak Force [N]                 1770.500
+Eccentric Peak Power / BM [W/kg]           22.100
+Eccentric Duration [ms]                   483.000
+Concentric Peak Force [N]                1759.500
+Concentric Peak Force / BM [N/kg]          24.350
+Concentric Duration [ms]                  264.000
+Fly                                         0.000
+Back                                        0.000
+Breast                                      0.000
+Free                                        1.000
+Group                                       3.000
+IM                                          0.000
+Male                                        0.000
+dtype: float64
+Male count: 2
+Female count: 6
+
+Cluster 3:
+Athletes
+2
+3
+6
+17
+21
+24
+28
+34
+43
+44
+
+Mean:
+Name                                       22.200
+BW [KG]                                    58.560
+Jump Height (Imp-Mom) in Inches [in]       12.550
+RSI-modified (Imp-Mom) [m/s]                0.455
+Eccentric Peak Force [N]                 1513.500
+Eccentric Peak Power / BM [W/kg]           20.510
+Eccentric Duration [ms]                   442.700
+Concentric Peak Force [N]                1548.100
+Concentric Peak Force / BM [N/kg]          23.660
+Concentric Duration [ms]                  267.200
+Fly                                         0.500
+Back                                        0.300
+Breast                                      0.300
+Free                                        0.500
+Group                                       2.200
+IM                                          0.400
+Male                                        0.200
+dtype: float64
+Median:
+Name                                       22.500
+BW [KG]                                    63.655
+Jump Height (Imp-Mom) in Inches [in]       12.700
+RSI-modified (Imp-Mom) [m/s]                0.455
+Eccentric Peak Force [N]                 1506.500
+Eccentric Peak Power / BM [W/kg]           21.650
+Eccentric Duration [ms]                   455.000
+Concentric Peak Force [N]                1514.500
+Concentric Peak Force / BM [N/kg]          23.600
+Concentric Duration [ms]                  267.500
+Fly                                         0.500
+Back                                        0.000
+Breast                                      0.000
+Free                                        0.500
+Group                                       2.000
+IM                                          0.000
+Male                                        0.000
+dtype: float64
+Male count: 2
+Female count: 8
+
+Cluster 4:
+Athletes
+11
+16
+29
+36
+39
+
+Mean:
+Name                                       26.200
+BW [KG]                                    74.026
+Jump Height (Imp-Mom) in Inches [in]       18.800
+RSI-modified (Imp-Mom) [m/s]                0.674
+Eccentric Peak Force [N]                 2494.000
+Eccentric Peak Power / BM [W/kg]           24.120
+Eccentric Duration [ms]                   464.200
+Concentric Peak Force [N]                2498.800
+Concentric Peak Force / BM [N/kg]          26.920
+Concentric Duration [ms]                  250.200
+Fly                                         0.200
+Back                                        0.400
+Breast                                      0.400
+Free                                        0.600
+Group                                       2.000
+IM                                          0.400
+Male                                        1.000
+dtype: float64
+Median:
+Name                                       29.00
+BW [KG]                                    90.08
+Jump Height (Imp-Mom) in Inches [in]       19.60
+RSI-modified (Imp-Mom) [m/s]                0.71
+Eccentric Peak Force [N]                 2498.00
+Eccentric Peak Power / BM [W/kg]           27.00
+Eccentric Duration [ms]                   461.00
+Concentric Peak Force [N]                2493.00
+Concentric Peak Force / BM [N/kg]          26.80
+Concentric Duration [ms]                  243.00
+Fly                                         0.00
+Back                                        0.00
+Breast                                      0.00
+Free                                        1.00
+Group                                       2.00
+IM                                          0.00
+Male                                        1.00
+dtype: float64
+Male count: 5
+Female count: 0
+
+Cluster 5:
+Athletes
+4
+9
+13
+
+Mean:
+Name                                        8.666667
+BW [KG]                                    63.816667
+Jump Height (Imp-Mom) in Inches [in]       11.900000
+RSI-modified (Imp-Mom) [m/s]                0.363333
+Eccentric Peak Force [N]                 1348.000000
+Eccentric Peak Power / BM [W/kg]           16.133333
+Eccentric Duration [ms]                   529.000000
+Concentric Peak Force [N]                1388.333333
+Concentric Peak Force / BM [N/kg]          21.766667
+Concentric Duration [ms]                  299.000000
+Fly                                         0.333333
+Back                                        0.000000
+Breast                                      0.000000
+Free                                        0.666667
+Group                                       1.666667
+IM                                          0.666667
+Male                                        0.333333
+dtype: float64
+Median:
+Name                                        9.00
+BW [KG]                                    62.57
+Jump Height (Imp-Mom) in Inches [in]       10.80
+RSI-modified (Imp-Mom) [m/s]                0.35
+Eccentric Peak Force [N]                 1377.00
+Eccentric Peak Power / BM [W/kg]           15.50
+Eccentric Duration [ms]                   513.00
+Concentric Peak Force [N]                1379.00
+Concentric Peak Force / BM [N/kg]          21.90
+Concentric Duration [ms]                  293.00
+Fly                                         0.00
+Back                                        0.00
+Breast                                      0.00
+Free                                        1.00
+Group                                       2.00
+IM                                          1.00
+Male                                        0.00
+dtype: float64
+Male count: 1
+Female count: 2
+
+Cluster 6:
+Athletes
+1
+5
+8
+19
+20
+30
+
+Mean:
+Name                                       13.833333
+BW [KG]                                    77.373333
+Jump Height (Imp-Mom) in Inches [in]       13.933333
+RSI-modified (Imp-Mom) [m/s]                0.516667
+Eccentric Peak Force [N]                 1940.500000
+Eccentric Peak Power / BM [W/kg]           18.616667
+Eccentric Duration [ms]                   446.333333
+Concentric Peak Force [N]                2006.333333
+Concentric Peak Force / BM [N/kg]          26.116667
+Concentric Duration [ms]                  244.500000
+Fly                                         0.333333
+Back                                        0.333333
+Breast                                      0.333333
+Free                                        0.833333
+Group                                       2.333333
+IM                                          0.500000
+Male                                        0.666667
+dtype: float64
+Median:
+Name                                       13.500
+BW [KG]                                    76.575
+Jump Height (Imp-Mom) in Inches [in]       14.450
+RSI-modified (Imp-Mom) [m/s]                0.515
+Eccentric Peak Force [N]                 1937.000
+Eccentric Peak Power / BM [W/kg]           17.050
+Eccentric Duration [ms]                   438.000
+Concentric Peak Force [N]                2001.000
+Concentric Peak Force / BM [N/kg]          25.450
+Concentric Duration [ms]                  245.500
+Fly                                         0.000
+Back                                        0.000
+Breast                                      0.000
+Free                                        1.000
+Group                                       2.500
+IM                                          0.500
+Male                                        1.000
+dtype: float64
+Male count: 4
+Female count: 2
+
+Cluster 1:
+Top Athlete:
+Name: 45
+Name                                       45.000
+BW [KG]                                    60.830
+Jump Height (Imp-Mom) in Inches [in]       13.300
+RSI-modified (Imp-Mom) [m/s]                0.400
+Eccentric Peak Force [N]                 1243.000
+Eccentric Peak Power / BM [W/kg]           17.300
+Eccentric Duration [ms]                   522.000
+Concentric Peak Force [N]                1245.000
+Concentric Peak Force / BM [N/kg]          20.500
+Concentric Duration [ms]                  323.000
+Fly                                         1.000
+Back                                        0.000
+Breast                                      0.000
+Free                                        1.000
+Group                                       3.000
+IM                                          0.000
+Male                                        0.000
+cluster                                     0.000
+Score                                     256.815
+Name: 616, dtype: float64
+
+Top Athlete:
+Name: 10
+Name                                       10.000
+BW [KG]                                    -1.000
+Jump Height (Imp-Mom) in Inches [in]       12.000
+RSI-modified (Imp-Mom) [m/s]                0.430
+Eccentric Peak Force [N]                 1236.000
+Eccentric Peak Power / BM [W/kg]           26.300
+Eccentric Duration [ms]                   410.000
+Concentric Peak Force [N]                1210.000
+Concentric Peak Force / BM [N/kg]          21.300
+Concentric Duration [ms]                  307.000
+Fly                                         1.000
+Back                                        0.000
+Breast                                      0.000
+Free                                        1.000
+Group                                       2.000
+IM                                          1.000
+Male                                        1.000
+cluster                                     0.000
+Score                                     245.104
+Name: 73, dtype: float64
+
+Cluster 2:
+Top Athlete:
+Name: 33
+Name                                       33.0000
+BW [KG]                                    86.6600
+Jump Height (Imp-Mom) in Inches [in]       15.7000
+RSI-modified (Imp-Mom) [m/s]                0.5700
+Eccentric Peak Force [N]                 2293.0000
+Eccentric Peak Power / BM [W/kg]           22.5000
+Eccentric Duration [ms]                   465.0000
+Concentric Peak Force [N]                2303.0000
+Concentric Peak Force / BM [N/kg]          26.6000
+Concentric Duration [ms]                  236.0000
+Fly                                         1.0000
+Back                                        1.0000
+Breast                                      0.0000
+Free                                        1.0000
+Group                                       3.0000
+IM                                          1.0000
+Male                                        1.0000
+cluster                                     1.0000
+Score                                     405.9385
+Name: 611, dtype: float64
+
+Top Athlete:
+Name: 22
+Name                                       22.0000
+BW [KG]                                    84.5900
+Jump Height (Imp-Mom) in Inches [in]       17.3000
+RSI-modified (Imp-Mom) [m/s]                0.5800
+Eccentric Peak Force [N]                 2215.0000
+Eccentric Peak Power / BM [W/kg]           21.4000
+Eccentric Duration [ms]                   490.0000
+Concentric Peak Force [N]                2210.0000
+Concentric Peak Force / BM [N/kg]          26.1000
+Concentric Duration [ms]                  273.0000
+Fly                                         1.0000
+Back                                        1.0000
+Breast                                      0.0000
+Free                                        1.0000
+Group                                       3.0000
+IM                                          1.0000
+Male                                        1.0000
+cluster                                     1.0000
+Score                                     397.8065
+Name: 251, dtype: float64
+
+Cluster 3:
+Top Athlete:
+Name: 26
+Name                                       26.0000
+BW [KG]                                    75.8900
+Jump Height (Imp-Mom) in Inches [in]       11.8000
+RSI-modified (Imp-Mom) [m/s]                0.3500
+Eccentric Peak Force [N]                 1781.0000
+Eccentric Peak Power / BM [W/kg]           23.4000
+Eccentric Duration [ms]                   508.0000
+Concentric Peak Force [N]                1751.0000
+Concentric Peak Force / BM [N/kg]          23.1000
+Concentric Duration [ms]                  353.0000
+Fly                                         1.0000
+Back                                        0.0000
+Breast                                      0.0000
+Free                                        1.0000
+Group                                       3.0000
+IM                                          0.0000
+Male                                        0.0000
+cluster                                     2.0000
+Score                                     337.1625
+Name: 50, dtype: float64
+
+Top Athlete:
+Name: 46
+Name                                       46.000
+BW [KG]                                    70.230
+Jump Height (Imp-Mom) in Inches [in]       18.100
+RSI-modified (Imp-Mom) [m/s]                0.610
+Eccentric Peak Force [N]                 1769.000
+Eccentric Peak Power / BM [W/kg]           18.400
+Eccentric Duration [ms]                   507.000
+Concentric Peak Force [N]                1773.000
+Concentric Peak Force / BM [N/kg]          25.200
+Concentric Duration [ms]                  255.000
+Fly                                         1.000
+Back                                        0.000
+Breast                                      0.000
+Free                                        1.000
+Group                                       3.000
+IM                                          1.000
+Male                                        1.000
+cluster                                     2.000
+Score                                     331.148
+Name: 643, dtype: float64
+
+Cluster 4:
+Top Athlete:
+Name: 3
+Name                                        3.0000
+BW [KG]                                    63.6600
+Jump Height (Imp-Mom) in Inches [in]       14.1000
+RSI-modified (Imp-Mom) [m/s]                0.5100
+Eccentric Peak Force [N]                 1628.0000
+Eccentric Peak Power / BM [W/kg]           26.4000
+Eccentric Duration [ms]                   443.0000
+Concentric Peak Force [N]                1612.0000
+Concentric Peak Force / BM [N/kg]          25.3000
+Concentric Duration [ms]                  259.0000
+Fly                                         0.0000
+Back                                        0.0000
+Breast                                      1.0000
+Free                                        0.0000
+Group                                       2.0000
+IM                                          1.0000
+Male                                        0.0000
+cluster                                     3.0000
+Score                                     304.3805
+Name: 49, dtype: float64
+
+Top Athlete:
+Name: 34
+Name                                       34.000
+BW [KG]                                    -1.000
+Jump Height (Imp-Mom) in Inches [in]       13.200
+RSI-modified (Imp-Mom) [m/s]                0.440
+Eccentric Peak Force [N]                 1546.000
+Eccentric Peak Power / BM [W/kg]           15.600
+Eccentric Duration [ms]                   490.000
+Concentric Peak Force [N]                1579.000
+Concentric Peak Force / BM [N/kg]          22.400
+Concentric Duration [ms]                  274.000
+Fly                                         1.000
+Back                                        0.000
+Breast                                      0.000
+Free                                        1.000
+Group                                       1.000
+IM                                          0.000
+Male                                        0.000
+cluster                                     3.000
+Score                                     298.537
+Name: 76, dtype: float64
+
+Cluster 5:
+Top Athlete:
+Name: 29
+Name                                       29.000
+BW [KG]                                    -1.000
+Jump Height (Imp-Mom) in Inches [in]       19.700
+RSI-modified (Imp-Mom) [m/s]                0.740
+Eccentric Peak Force [N]                 2579.000
+Eccentric Peak Power / BM [W/kg]           22.800
+Eccentric Duration [ms]                   438.000
+Concentric Peak Force [N]                2556.000
+Concentric Peak Force / BM [N/kg]          27.400
+Concentric Duration [ms]                  243.000
+Fly                                         1.000
+Back                                        1.000
+Breast                                      0.000
+Free                                        1.000
+Group                                       3.000
+IM                                          0.000
+Male                                        1.000
+cluster                                     4.000
+Score                                     445.652
+Name: 83, dtype: float64
+
+Top Athlete:
+Name: 11
+Name                                       11.000
+BW [KG]                                    93.820
+Jump Height (Imp-Mom) in Inches [in]       18.800
+RSI-modified (Imp-Mom) [m/s]                0.650
+Eccentric Peak Force [N]                 2538.000
+Eccentric Peak Power / BM [W/kg]           30.000
+Eccentric Duration [ms]                   461.000
+Concentric Peak Force [N]                2460.000
+Concentric Peak Force / BM [N/kg]          26.200
+Concentric Duration [ms]                  272.000
+Fly                                         0.000
+Back                                        1.000
+Breast                                      0.000
+Free                                        1.000
+Group                                       2.000
+IM                                          1.000
+Male                                        1.000
+cluster                                     4.000
+Score                                     439.865
+Name: 220, dtype: float64
+
+Cluster 6:
+Top Athlete:
+Name: 9
+Name                                        9.000
+BW [KG]                                    66.460
+Jump Height (Imp-Mom) in Inches [in]       10.000
+RSI-modified (Imp-Mom) [m/s]                0.320
+Eccentric Peak Force [N]                 1406.000
+Eccentric Peak Power / BM [W/kg]           15.500
+Eccentric Duration [ms]                   513.000
+Concentric Peak Force [N]                1417.000
+Concentric Peak Force / BM [N/kg]          21.300
+Concentric Duration [ms]                  285.000
+Fly                                         0.000
+Back                                        0.000
+Breast                                      0.000
+Free                                        1.000
+Group                                       1.000
+IM                                          0.000
+Male                                        0.000
+cluster                                     5.000
+Score                                     277.771
+Name: 361, dtype: float64
+
+Top Athlete:
+Name: 4
+Name                                        4.000
+BW [KG]                                    62.420
+Jump Height (Imp-Mom) in Inches [in]       14.900
+RSI-modified (Imp-Mom) [m/s]                0.420
+Eccentric Peak Force [N]                 1261.000
+Eccentric Peak Power / BM [W/kg]           10.900
+Eccentric Duration [ms]                   614.000
+Concentric Peak Force [N]                1379.000
+Concentric Peak Force / BM [N/kg]          22.100
+Concentric Duration [ms]                  293.000
+Fly                                         1.000
+Back                                        0.000
+Breast                                      0.000
+Free                                        1.000
+Group                                       2.000
+IM                                          1.000
+Male                                        1.000
+cluster                                     5.000
+Score                                     272.511
+Name: 280, dtype: float64
+
+Cluster 7:
+Top Athlete:
+Name: 30
+Name                                       30.000
+BW [KG]                                    86.700
+Jump Height (Imp-Mom) in Inches [in]       15.400
+RSI-modified (Imp-Mom) [m/s]                0.470
+Eccentric Peak Force [N]                 2025.000
+Eccentric Peak Power / BM [W/kg]           17.600
+Eccentric Duration [ms]                   543.000
+Concentric Peak Force [N]                2025.000
+Concentric Peak Force / BM [N/kg]          23.400
+Concentric Duration [ms]                  293.000
+Fly                                         1.000
+Back                                        1.000
+Breast                                      0.000
+Free                                        1.000
+Group                                       3.000
+IM                                          0.000
+Male                                        1.000
+cluster                                     6.000
+Score                                     374.026
+Name: 94, dtype: float64
+
+Top Athlete:
+Name: 1
+Name                                        1.0000
+BW [KG]                                    74.2900
+Jump Height (Imp-Mom) in Inches [in]       11.6000
+RSI-modified (Imp-Mom) [m/s]                0.4500
+Eccentric Peak Force [N]                 2052.0000
+Eccentric Peak Power / BM [W/kg]           28.1000
+Eccentric Duration [ms]                   402.0000
+Concentric Peak Force [N]                1978.0000
+Concentric Peak Force / BM [N/kg]          26.6000
+Concentric Duration [ms]                  256.0000
+Fly                                         1.0000
+Back                                        0.0000
+Breast                                      1.0000
+Free                                        1.0000
+Group                                       2.0000
+IM                                          1.0000
+Male                                        0.0000
+cluster                                     6.0000
+Score                                     360.3125
+Name: 42, dtype: float64
+
+Top 6 male athletes for Group_1:
+	36.0
+	42.0
+	5.0
+	38.0
+	39.0
+
+Top 6 male athletes for Group_2:
+	11.0
+	32.0
+	37.0
+	20.0
+	41.0
+	4.0
+
+Top 6 male athletes for Group_3:
+	16.0
+	29.0
+	23.0
+	18.0
+	12.0
+	22.0
+
+Top 6 female athletes for Group_1:
+	36.0
+	42.0
+	5.0
+	38.0
+	39.0
+
+Top 6 female athletes for Group_2:
+	11.0
+	32.0
+	37.0
+	20.0
+	41.0
+	4.0
+
+Top 6 female athletes for Group_3:
+	16.0
+	29.0
+	23.0
+	18.0
+	12.0
+	22.0
+
+Top 5 male athletes for Fly stroke:
+	84. 29.0
+	273. 23.0
+	22. 18.0
+	252. 22.0
+	612. 33.0
+
+Top 5 male athletes for Back stroke:
+	84. 29.0
+	221. 11.0
+	22. 18.0
+	252. 22.0
+	612. 33.0
+
+Top 5 male athletes for Breast stroke:
+	367. 36.0
+	63. 16.0
+	261. 12.0
+	153. 6.0
+	655. 19.0
+
+Top 5 male athletes for Free stroke:
+	84. 29.0
+	221. 11.0
+	273. 23.0
+	654. 42.0
+	22. 18.0
+
+Top 5 male athletes for IM stroke:
+	63. 16.0
+	221. 11.0
+	22. 18.0
+	261. 12.0
+	252. 22.0
+
+Top 5 female athletes for Fly stroke:
+	43. 1.0
+	51. 26.0
+	93. 21.0
+	504. 28.0
+	616. 44.0
+
+Top 5 female athletes for Back stroke:
+	303. 15.0
+	504. 28.0
+	619. 2.0
+	319. 27.0
+
+Top 5 female athletes for Breast stroke:
+	50. 3.0
+	43. 1.0
+	643. 40.0
+	171. 35.0
+	371. 17.0
+
+Top 5 female athletes for Free stroke:
+	303. 15.0
+	48. 25.0
+	43. 1.0
+	507. 8.0
+	643. 40.0
+
+Top 5 female athletes for IM stroke:
+	50. 3.0
+	43. 1.0
+	643. 40.0
+	371. 17.0
+	45. 13.0
+
+Most important metric for Fly stroke is Concentric Duration [ms]  with an average weighted score of 0.02
+
+Most important metric for Back stroke is Concentric Peak Force [N]  with an average weighted score of 0.06
+
+Most important metric for Breast stroke is Eccentric Peak Power / BM [W/kg]  with an average weighted score of 0.06
+
+Most important metric for Free stroke is Concentric Peak Force [N]  with an average weighted score of 0.01
+
+Most important metric for IM stroke is Eccentric Peak Power / BM [W/kg]  with an average weighted score of 0.03
+
+This code calculates the average score for each metric in each stroke group 
+by multiplying the metric's average value in the group by its weight.
+It then identifies the most dominant metric for each group as the one with the highest average weighted score.
+
+Most important metric for Group 1 is Eccentric Peak Force [N]  with an average weighted score of 0.02
+Most important metric for Group 2 is Concentric Duration [ms]  with an average weighted score of 0.03
+Most important metric for Group 3 is RSI-modified (Imp-Mom) [m/s]  with an average weighted score of 0.03
+
+Men stats by group
+Group 1:
+	Jump Height (Imp-Mom) in Inches [in] :
+		Max: 22.50
+		Min: 13.40
+		Avg: 16.52
+
+	RSI-modified (Imp-Mom) [m/s] :
+		Max: 0.79
+		Min: 0.48
+		Avg: 0.58
+
+	Eccentric Peak Force [N] :
+		Max: 2457.00
+		Min: 1916.00
+		Avg: 2205.40
+
+	Eccentric Peak Power / BM [W/kg] :
+		Max: 27.00
+		Min: 13.00
+		Avg: 22.02
+
+	Eccentric Duration [ms] :
+		Max: 504.00
+		Min: 452.00
+		Avg: 471.60
+
+	Concentric Peak Force [N] :
+		Max: 2572.00
+		Min: 1912.00
+		Avg: 2232.40
+
+	Concentric Peak Force / BM [N/kg] :
+		Max: 27.80
+		Min: 24.20
+		Avg: 26.12
+
+	Concentric Duration [ms] :
+		Max: 288.00
+		Min: 225.00
+		Avg: 254.20
+
+
+Group 2:
+	Jump Height (Imp-Mom) in Inches [in] :
+		Max: 18.80
+		Min: 12.00
+		Avg: 14.64
+
+	RSI-modified (Imp-Mom) [m/s] :
+		Max: 0.65
+		Min: 0.42
+		Avg: 0.51
+
+	Eccentric Peak Force [N] :
+		Max: 2538.00
+		Min: 1236.00
+		Avg: 1822.12
+
+	Eccentric Peak Power / BM [W/kg] :
+		Max: 30.00
+		Min: 9.70
+		Avg: 19.95
+
+	Eccentric Duration [ms] :
+		Max: 614.00
+		Min: 390.00
+		Avg: 473.62
+
+	Concentric Peak Force [N] :
+		Max: 2460.00
+		Min: 1210.00
+		Avg: 1876.38
+
+	Concentric Peak Force / BM [N/kg] :
+		Max: 26.20
+		Min: 21.30
+		Avg: 23.98
+
+	Concentric Duration [ms] :
+		Max: 307.00
+		Min: 235.00
+		Avg: 269.12
+
+
+Group 3:
+	Jump Height (Imp-Mom) in Inches [in] :
+		Max: 19.70
+		Min: 14.50
+		Avg: 17.19
+
+	RSI-modified (Imp-Mom) [m/s] :
+		Max: 0.74
+		Min: 0.47
+		Avg: 0.62
+
+	Eccentric Peak Force [N] :
+		Max: 2579.00
+		Min: 1509.00
+		Avg: 2105.09
+
+	Eccentric Peak Power / BM [W/kg] :
+		Max: 29.00
+		Min: 16.40
+		Avg: 22.95
+
+	Eccentric Duration [ms] :
+		Max: 543.00
+		Min: 394.00
+		Avg: 458.55
+
+	Concentric Peak Force [N] :
+		Max: 2556.00
+		Min: 1503.00
+		Avg: 2113.64
+
+	Concentric Peak Force / BM [N/kg] :
+		Max: 28.10
+		Min: 23.40
+		Avg: 25.95
+
+	Concentric Duration [ms] :
+		Max: 293.00
+		Min: 220.00
+		Avg: 253.82
+
+
+Women stats by group
+Group 1:
+	Jump Height (Imp-Mom) in Inches [in] :
+		Max: 13.20
+		Min: 7.80
+		Avg: 10.68
+
+	RSI-modified (Imp-Mom) [m/s] :
+		Max: 0.52
+		Min: 0.29
+		Avg: 0.39
+
+	Eccentric Peak Force [N] :
+		Max: 1546.00
+		Min: 1199.00
+		Avg: 1405.25
+
+	Eccentric Peak Power / BM [W/kg] :
+		Max: 22.70
+		Min: 15.50
+		Avg: 18.02
+
+	Eccentric Duration [ms] :
+		Max: 513.00
+		Min: 356.00
+		Avg: 439.25
+
+	Concentric Peak Force [N] :
+		Max: 1579.00
+		Min: 1164.00
+		Avg: 1408.25
+
+	Concentric Peak Force / BM [N/kg] :
+		Max: 25.70
+		Min: 20.00
+		Avg: 22.35
+
+	Concentric Duration [ms] :
+		Max: 286.00
+		Min: 217.00
+		Avg: 265.50
+
+
+Group 2:
+	Jump Height (Imp-Mom) in Inches [in] :
+		Max: 14.10
+		Min: 9.10
+		Avg: 11.43
+
+	RSI-modified (Imp-Mom) [m/s] :
+		Max: 0.51
+		Min: 0.30
+		Avg: 0.41
+
+	Eccentric Peak Force [N] :
+		Max: 2052.00
+		Min: 1136.00
+		Avg: 1535.00
+
+	Eccentric Peak Power / BM [W/kg] :
+		Max: 28.10
+		Min: 16.50
+		Avg: 22.72
+
+	Eccentric Duration [ms] :
+		Max: 488.00
+		Min: 398.00
+		Avg: 443.00
+
+	Concentric Peak Force [N] :
+		Max: 1978.00
+		Min: 1131.00
+		Avg: 1511.83
+
+	Concentric Peak Force / BM [N/kg] :
+		Max: 26.60
+		Min: 21.80
+		Avg: 23.55
+
+	Concentric Duration [ms] :
+		Max: 319.00
+		Min: 244.00
+		Avg: 277.00
+
+
+Group 3:
+	Jump Height (Imp-Mom) in Inches [in] :
+		Max: 15.30
+		Min: 7.10
+		Avg: 12.46
+
+	RSI-modified (Imp-Mom) [m/s] :
+		Max: 0.74
+		Min: 0.26
+		Avg: 0.46
+
+	Eccentric Peak Force [N] :
+		Max: 1836.00
+		Min: 889.00
+		Avg: 1578.17
+
+	Eccentric Peak Power / BM [W/kg] :
+		Max: 30.00
+		Min: 2.40
+		Avg: 19.60
+
+	Eccentric Duration [ms] :
+		Max: 522.00
+		Min: 304.00
+		Avg: 447.58
+
+	Concentric Peak Force [N] :
+		Max: 2163.00
+		Min: 1245.00
+		Avg: 1629.67
+
+	Concentric Peak Force / BM [N/kg] :
+		Max: 32.40
+		Min: 20.50
+		Avg: 24.68
+
+	Concentric Duration [ms] :
+		Max: 353.00
+		Min: 175.00
+		Avg: 269.08
+
+
+Men stats by stroke
+Stroke: Fly
+	Jump Height (Imp-Mom) in Inches [in] :
+		Max: 19.70
+		Min: 12.00
+		Avg: 15.96
+
+	RSI-modified (Imp-Mom) [m/s] :
+		Max: 0.74
+		Min: 0.42
+		Avg: 0.55
+
+	Eccentric Peak Force [N] :
+		Max: 2579.00
+		Min: 1236.00
+		Avg: 1954.92
+
+	Eccentric Peak Power / BM [W/kg] :
+		Max: 29.00
+		Min: 10.90
+		Avg: 22.44
+
+	Eccentric Duration [ms] :
+		Max: 614.00
+		Min: 410.00
+		Avg: 477.33
+
+	Concentric Peak Force [N] :
+		Max: 2556.00
+		Min: 1210.00
+		Avg: 1963.08
+
+	Concentric Peak Force / BM [N/kg] :
+		Max: 27.70
+		Min: 21.30
+		Avg: 24.97
+
+	Concentric Duration [ms] :
+		Max: 307.00
+		Min: 231.00
+		Avg: 267.00
+
+
+Stroke: Back
+	Jump Height (Imp-Mom) in Inches [in] :
+		Max: 19.70
+		Min: 12.20
+		Avg: 16.39
+
+	RSI-modified (Imp-Mom) [m/s] :
+		Max: 0.74
+		Min: 0.47
+		Avg: 0.58
+
+	Eccentric Peak Force [N] :
+		Max: 2579.00
+		Min: 1422.00
+		Avg: 2147.88
+
+	Eccentric Peak Power / BM [W/kg] :
+		Max: 30.00
+		Min: 9.70
+		Avg: 21.19
+
+	Eccentric Duration [ms] :
+		Max: 543.00
+		Min: 390.00
+		Avg: 458.88
+
+	Concentric Peak Force [N] :
+		Max: 2556.00
+		Min: 1784.00
+		Avg: 2190.12
+
+	Concentric Peak Force / BM [N/kg] :
+		Max: 27.40
+		Min: 23.30
+		Avg: 25.20
+
+	Concentric Duration [ms] :
+		Max: 293.00
+		Min: 235.00
+		Avg: 262.00
+
+
+Stroke: Breast
+	Jump Height (Imp-Mom) in Inches [in] :
+		Max: 22.50
+		Min: 14.40
+		Avg: 17.40
+
+	RSI-modified (Imp-Mom) [m/s] :
+		Max: 0.79
+		Min: 0.51
+		Avg: 0.64
+
+	Eccentric Peak Force [N] :
+		Max: 2498.00
+		Min: 1509.00
+		Avg: 2031.83
+
+	Eccentric Peak Power / BM [W/kg] :
+		Max: 28.60
+		Min: 16.40
+		Avg: 23.52
+
+	Eccentric Duration [ms] :
+		Max: 473.00
+		Min: 394.00
+		Avg: 444.00
+
+	Concentric Peak Force [N] :
+		Max: 2493.00
+		Min: 1503.00
+		Avg: 2053.00
+
+	Concentric Peak Force / BM [N/kg] :
+		Max: 28.10
+		Min: 23.50
+		Avg: 25.93
+
+	Concentric Duration [ms] :
+		Max: 270.00
+		Min: 220.00
+		Avg: 245.50
+
+
+Stroke: Free
+	Jump Height (Imp-Mom) in Inches [in] :
+		Max: 19.70
+		Min: 12.00
+		Avg: 15.73
+
+	RSI-modified (Imp-Mom) [m/s] :
+		Max: 0.74
+		Min: 0.42
+		Avg: 0.55
+
+	Eccentric Peak Force [N] :
+		Max: 2579.00
+		Min: 1236.00
+		Avg: 2018.74
+
+	Eccentric Peak Power / BM [W/kg] :
+		Max: 30.00
+		Min: 9.70
+		Avg: 21.15
+
+	Eccentric Duration [ms] :
+		Max: 614.00
+		Min: 390.00
+		Avg: 473.68
+
+	Concentric Peak Force [N] :
+		Max: 2572.00
+		Min: 1210.00
+		Avg: 2047.21
+
+	Concentric Peak Force / BM [N/kg] :
+		Max: 27.80
+		Min: 21.30
+		Avg: 25.04
+
+	Concentric Duration [ms] :
+		Max: 307.00
+		Min: 225.00
+		Avg: 262.89
+
+
+Stroke: IM
+	Jump Height (Imp-Mom) in Inches [in] :
+		Max: 19.60
+		Min: 12.00
+		Avg: 15.87
+
+	RSI-modified (Imp-Mom) [m/s] :
+		Max: 0.71
+		Min: 0.42
+		Avg: 0.56
+
+	Eccentric Peak Force [N] :
+		Max: 2538.00
+		Min: 1236.00
+		Avg: 1899.71
+
+	Eccentric Peak Power / BM [W/kg] :
+		Max: 30.00
+		Min: 9.70
+		Avg: 21.78
+
+	Eccentric Duration [ms] :
+		Max: 614.00
+		Min: 390.00
+		Avg: 458.86
+
+	Concentric Peak Force [N] :
+		Max: 2493.00
+		Min: 1210.00
+		Avg: 1935.36
+
+	Concentric Peak Force / BM [N/kg] :
+		Max: 28.10
+		Min: 21.30
+		Avg: 24.83
+
+	Concentric Duration [ms] :
+		Max: 307.00
+		Min: 220.00
+		Avg: 262.21
+
+
+Women stats by stroke
+Stroke: Fly
+	Jump Height (Imp-Mom) in Inches [in] :
+		Max: 13.30
+		Min: 10.60
+		Avg: 12.06
+
+	RSI-modified (Imp-Mom) [m/s] :
+		Max: 0.55
+		Min: 0.35
+		Avg: 0.45
+
+	Eccentric Peak Force [N] :
+		Max: 2052.00
+		Min: 889.00
+		Avg: 1461.78
+
+	Eccentric Peak Power / BM [W/kg] :
+		Max: 28.10
+		Min: 2.40
+		Avg: 18.72
+
+	Eccentric Duration [ms] :
+		Max: 522.00
+		Min: 304.00
+		Avg: 429.78
+
+	Concentric Peak Force [N] :
+		Max: 1978.00
+		Min: 1131.00
+		Avg: 1500.11
+
+	Concentric Peak Force / BM [N/kg] :
+		Max: 26.60
+		Min: 20.50
+		Avg: 23.30
+
+	Concentric Duration [ms] :
+		Max: 353.00
+		Min: 217.00
+		Avg: 276.11
+
+
+Stroke: Back
+	Jump Height (Imp-Mom) in Inches [in] :
+		Max: 15.30
+		Min: 7.10
+		Avg: 10.80
+
+	RSI-modified (Imp-Mom) [m/s] :
+		Max: 0.74
+		Min: 0.26
+		Avg: 0.44
+
+	Eccentric Peak Force [N] :
+		Max: 1778.00
+		Min: 1521.00
+		Avg: 1648.50
+
+	Eccentric Peak Power / BM [W/kg] :
+		Max: 30.00
+		Min: 16.50
+		Avg: 23.70
+
+	Eccentric Duration [ms] :
+		Max: 488.00
+		Min: 337.00
+		Avg: 409.25
+
+	Concentric Peak Force [N] :
+		Max: 1769.00
+		Min: 1521.00
+		Avg: 1631.25
+
+	Concentric Peak Force / BM [N/kg] :
+		Max: 32.40
+		Min: 21.80
+		Avg: 25.07
+
+	Concentric Duration [ms] :
+		Max: 281.00
+		Min: 192.00
+		Avg: 244.75
+
+
+Stroke: Breast
+	Jump Height (Imp-Mom) in Inches [in] :
+		Max: 14.10
+		Min: 11.60
+		Avg: 12.70
+
+	RSI-modified (Imp-Mom) [m/s] :
+		Max: 0.51
+		Min: 0.38
+		Avg: 0.44
+
+	Eccentric Peak Force [N] :
+		Max: 2052.00
+		Min: 1496.00
+		Avg: 1704.60
+
+	Eccentric Peak Power / BM [W/kg] :
+		Max: 28.10
+		Min: 16.60
+		Avg: 24.66
+
+	Eccentric Duration [ms] :
+		Max: 521.00
+		Min: 402.00
+		Avg: 456.60
+
+	Concentric Peak Force [N] :
+		Max: 1978.00
+		Min: 1460.00
+		Avg: 1674.80
+
+	Concentric Peak Force / BM [N/kg] :
+		Max: 26.60
+		Min: 22.40
+		Avg: 24.60
+
+	Concentric Duration [ms] :
+		Max: 303.00
+		Min: 256.00
+		Avg: 276.80
+
+
+Stroke: Free
+	Jump Height (Imp-Mom) in Inches [in] :
+		Max: 15.30
+		Min: 7.10
+		Avg: 11.77
+
+	RSI-modified (Imp-Mom) [m/s] :
+		Max: 0.74
+		Min: 0.26
+		Avg: 0.44
+
+	Eccentric Peak Force [N] :
+		Max: 2052.00
+		Min: 889.00
+		Avg: 1562.40
+
+	Eccentric Peak Power / BM [W/kg] :
+		Max: 30.00
+		Min: 2.40
+		Avg: 19.86
+
+	Eccentric Duration [ms] :
+		Max: 522.00
+		Min: 304.00
+		Avg: 435.00
+
+	Concentric Peak Force [N] :
+		Max: 2163.00
+		Min: 1164.00
+		Avg: 1599.53
+
+	Concentric Peak Force / BM [N/kg] :
+		Max: 32.40
+		Min: 20.00
+		Avg: 24.25
+
+	Concentric Duration [ms] :
+		Max: 353.00
+		Min: 175.00
+		Avg: 266.20
+
+
+Stroke: IM
+	Jump Height (Imp-Mom) in Inches [in] :
+		Max: 14.10
+		Min: 10.80
+		Avg: 11.95
+
+	RSI-modified (Imp-Mom) [m/s] :
+		Max: 0.51
+		Min: 0.35
+		Avg: 0.43
+
+	Eccentric Peak Force [N] :
+		Max: 2052.00
+		Min: 1136.00
+		Avg: 1560.83
+
+	Eccentric Peak Power / BM [W/kg] :
+		Max: 28.10
+		Min: 18.80
+		Avg: 24.58
+
+	Eccentric Duration [ms] :
+		Max: 467.00
+		Min: 398.00
+		Avg: 436.67
+
+	Concentric Peak Force [N] :
+		Max: 1978.00
+		Min: 1131.00
+		Avg: 1533.17
+
+	Concentric Peak Force / BM [N/kg] :
+		Max: 26.60
+		Min: 21.90
+		Avg: 23.97
+
+	Concentric Duration [ms] :
+		Max: 319.00
+		Min: 244.00
+		Avg: 279.00
+
+
