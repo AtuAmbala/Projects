@@ -7,7 +7,7 @@
 //4. Built-in commands: The shell supports built-in commands such as "cd" to change the current directory.
 //5. Signal handling: The shell handles the SIGINT signal (Ctrl+C) to exit gracefully and the SIGQUIT signal (Ctrl+\) to end execution.
 //
-//Programmers: Atuhaire Ambala and Ricardo Escarcega
+//Programmers: Atuhaire Ambala
 
 
 #include <stdio.h>
