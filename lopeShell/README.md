@@ -8,6 +8,10 @@ The shell allows users to perform a variety of file and directory operations int
 It supports 13 different commands, including creating, renaming, deleting, moving, duplicating files and directories,   
 searching for files, displaying directory trees, and retrieving file and directory information.
 
+### Example Run
+
+https://www.loom.com/share/c320cd3f5d154cde9abfa8838f42c3f7?sid=598647ea-a6f5-41f2-aa85-b86b4f23ee2f
+
 ### Software Requirements
 
 - **Operating System:** Unix/Linux  
