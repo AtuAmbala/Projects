@@ -27,3 +27,6 @@ clean:
     rm -f lex.yy.c
     rm -f a.out
     ls -l
+```
+### Example Run
+https://www.loom.com/share/9213217a6b7b4fcd99e6f5ba08176515?sid=4bf1aadc-353e-4fd9-8260-596ff2984332
