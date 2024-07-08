@@ -42,7 +42,7 @@ Fantasy Fighting Game is a C++ project where a human player battles against the 
 2. Navigate to the project directory:
 
     ```sh
-    cd "/Users/atu/Desktop/Fantasy fighting Game copy/sources"
+    cd "/Users/Admin/Desktop/Fantasy_Fighting_Game/sources"
     ```
 
 3. Compile the source files:
