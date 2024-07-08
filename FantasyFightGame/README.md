@@ -76,7 +76,8 @@ Fantasy Fighting Game is a C++ project where a human player battles against the 
 - Load a previously saved game to continue from where you left off.
 
 ## Example Run
-https://youtu.be/Bh_nOo4jjD4
+
+[![Project Video](https://img.youtube.com/vi/Bh_nOo4jjD4/0.jpg)](https://youtu.be/Bh_nOo4jjD4)
 
 
 
