@@ -1,6 +1,6 @@
 # My Projects Repository
 
-Welcome to my projects repository! Here, you'll find a collection of all the projects I've been working on, ranging from data analysis and machine learning to system programming and web development.
+Welcome to my projects repository! Here, you'll find a collection of all the projects I've been working on, ranging from data analysis and machine learning to system programming.
 
 ## Introduction
 
