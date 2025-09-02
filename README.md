@@ -25,6 +25,8 @@ A  program to tokenise code into the tokens defined in the lexer
 ### 5. Fantasy Fighting Game
 A one player game where a you build out your loadout and battle a beast.
 
+### 5. Custom Compiler
+Building a Custom Compiler for a C like language
 
 ## Additional Information
 
